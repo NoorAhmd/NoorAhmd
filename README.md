@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=nateshmbhat&count_private=true&show_icons=true&layout=default)
+![My github stats](https://github-readme-stats.vercel.app/api?username=NoorAhmd&count_private=true&show_icons=true&layout=default)
 
 <!--
 **NoorAhmd/NoorAhmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
