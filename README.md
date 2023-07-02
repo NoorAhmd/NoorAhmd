@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=whitelionx.visitor-badge)
+<!--
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=whitelionx.visitor-badge)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=NoorAhmd&count_private=true&show_icons=true&layout=default)
-
+- ![My github stats](https://github-readme-stats.vercel.app/api?username=NoorAhmd&count_private=true&show_icons=true&layout=default)
+-->
 <!--
 **NoorAhmd/NoorAhmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
